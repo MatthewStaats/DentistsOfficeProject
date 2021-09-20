@@ -1,5 +1,5 @@
 # DentistsOfficeProject <br/>
-Java III Fianl Project <br/>
+Java III Final Project <br/>
 Simple Java Web Application with Access DB <br/>
 Using HTML/JSP files, Servlets and Buisness Objects <br/>
 ucannacess to connect to DB in Netbeans<br/><br/>
