@@ -6,7 +6,7 @@ ucannacess to connect to DB in Netbeans<br/><br/>
 A Patient Should be able to: <br/>
 I. Login <br/>
 II. View/Change their info name, address, etc.. <br/>
-III. View.Change their next Appointment date
+III. View.Change their next Appointment date<br/>
 IV. Add a new Appointment if they do not already have an appointment. <br/>
 (Patient's can only have one appointment set at a time. Are not allowed mutiple appointments to be set)<br/> <br/>
 A Dentist Should be able to: <br/>
