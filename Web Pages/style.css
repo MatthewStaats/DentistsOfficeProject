@@ -1,0 +1,127 @@
+h1 {
+    padding-top: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size:18px;
+    text-align: center;
+}
+
+#accounts {
+    margin-left: 0;
+    margin-right:0;
+}
+ 
+/* Body for all web Pages */
+#background {
+    background-color: #DFDFE5;
+    font-family: Arial, sans-serif, "Times New Roman";
+    margin: 0;
+    padding: 0;
+}
+ 
+ /* Nav style for all web pages */       
+nav {
+    overflow: hidden;
+    background-color: white;
+    border-style: none;
+}
+         
+nav a {
+    float: left;
+    color: black;
+    font-size: 14px;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+/* Login Page Styling */
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 26px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+            
+input[type=submit] {
+    padding: 6px 8px;
+    border-radius: 2px;
+    margin-right: 14px;
+    margin-left: 60px;
+    margin-top: 16px;
+}
+            
+input[type=reset] {
+    padding: 6px 8px;
+    border-radius: 2px;
+}
+   
+#login {
+    width: 250px;
+    height: 250px;
+    padding: 30px;
+    background-color: #EEE;
+    color: #333;
+    border: 5px solid black;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-left: 600px;
+}
+            
+#loginHeader {
+    padding-top: 30px;
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+/* Information display */
+#searchForm {
+    width: 275px;
+    height: 700px;
+    padding: 30px;
+    background-color: #EEE;
+    color: #333;
+    border: 5px solid black;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-left: 575px;
+}
+
+#patForm {
+    width: 325px;
+    height: 750px;
+    padding: 30px;
+    background-color: #EEE;
+    color: #333;
+    border: 5px solid black;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-left: 575px;
+}
+
+#patAppoint {
+    width: 320px;
+    height: 450px;
+    padding: 30px;
+    background-color: #EEE;
+    color: #333;
+    border: 5px solid black;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-left: 575px;
+}
+
+#searchHeader {
+    padding-top: 30px;
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 75px;
+}
